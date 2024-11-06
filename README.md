@@ -1,0 +1,1 @@
+console method-js
